@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [[https://portafolio-3qd95udbp-atna2007s-projects.vercel.app/](https://portafolio-3qd95udbp-atna2007s-projects.vercel.app/)](http://localhost:300) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
