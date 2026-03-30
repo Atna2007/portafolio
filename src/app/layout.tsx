@@ -13,8 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ariel Navas | Desarrollador de Software",
-  description: "Portfolio de Ariel Navas — estudiante de Desarrollo de Software en ITSE Panamá, apasionado por la inteligencia artificial y la automatización.",
+  title: "Ariel Navas | Automatización & Chatbots IA",
+  description: "Transformo procesos manuales en flujos automáticos inteligentes. Especializado en automatización No-Code, chatbots con IA e integraciones de sistemas.",
+  keywords: ["automatización", "chatbots", "IA", "n8n", "Make", "OpenAI", "desarrollador", "Panamá"],
+  authors: [{ name: "Ariel Navas" }],
+  openGraph: {
+    title: "Ariel Navas | Automatización & Chatbots IA",
+    description: "Transformo procesos manuales en flujos automáticos inteligentes.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
